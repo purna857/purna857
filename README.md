@@ -9,8 +9,8 @@
 ##Tech Stack
 - Languages: Python, C++, JavaScript
 - Frontend: HTML, CSS, ReactJS
-- Backend: Express , Node.js
-- Database: Sqlite
+- Backend: ExpressJs , Node.js
+- Database: Sqlite,MongoDb
 - Tools: Git, GitHub, VS Code
 <!---
 purna857/purna857 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
